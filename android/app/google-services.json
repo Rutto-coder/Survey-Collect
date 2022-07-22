@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89945099853",
+    "project_id": "survey-collect-fcc1b",
+    "storage_bucket": "survey-collect-fcc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89945099853:android:825b57be4f0b8a4f52d604",
+        "android_client_info": {
+          "package_name": "com.example.survey_collect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89945099853-hf18cp4kb61j9pqnmkodthhmsh6bo267.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3-pjoHdInLxZkngCGLZhUh4y5ojXPWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89945099853-hf18cp4kb61j9pqnmkodthhmsh6bo267.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
